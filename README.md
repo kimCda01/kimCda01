@@ -44,7 +44,7 @@ Learning C++ & Unreal · Focused on systems & performance
 
 # Contact
 - GitHub: https://github.com/kimCda01
-- Email: kjhlove0119@naver.com
+- Email: kimcda0119@gmail.com
 - Blog: https://junho06.tistory.com/
 
 ![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
