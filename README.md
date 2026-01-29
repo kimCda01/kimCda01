@@ -1,10 +1,12 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+GitHub!;Have+a+look+around!+ᓚᘏᗢ)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+GitHub!;&Have+a+look+around!+ᓚᘏᗢ)
 
 <br><br>
 
-# About Me
+# About Me & What I Value
 Junior Game Developer  
-Learning C++ & Unreal · Focused on systems & performance
+Learning C++ & Unreal · Focused on systems & performance  <br>
+
+Develop with a focus on stable and reliable service.
 
 <br><br>
   
