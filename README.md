@@ -50,3 +50,11 @@ Develop with a focus on stable and reliable service.
 - Blog: https://junho06.tistory.com/
 
 ![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+  
+![Total](https://views-counter.vercel.app/badge?pageId=kimCda01%2Freadme&type=total&label=Total&color=brightgreen&style=for-the-badge)
+![Today](https://views-counter.vercel.app/badge?pageId=kimCda01%2Freadme&type=daily&label=Today&color=orange&style=for-the-badge)
+![Unique](https://views-counter.vercel.app/badge?pageId=kimCda01%2Freadme&type=unique&label=Unique&color=blue&style=for-the-badge)
+
+
+
+
